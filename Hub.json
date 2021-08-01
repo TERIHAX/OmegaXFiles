@@ -1,0 +1,24 @@
+{
+    "scripts": [
+        {
+            "name": "Owl Hub",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/OwlHub.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/OwlHub.lua'))()"
+        },
+        {
+            "name": "Dark Hub",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHub.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://darkhub.xyz/remote-script.lua'))()"
+        },
+        {
+            "name": "Dark Hub V3",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHubV3.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://github.com/RandomAdamYT/DarkHub_V3/raw/main/Init'))()"
+        },
+        {
+            "name": "Dark Hub V3",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHubV3.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://github.com/RandomAdamYT/DarkHub_V3/raw/main/Init'))()"
+        }
+    ]
+}
