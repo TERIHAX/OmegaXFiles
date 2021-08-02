@@ -16,11 +16,6 @@
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/OwlHub.lua'))()"
         },
         {
-            "name": "Owl Hub",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/OwlHub.png?raw=true",
-            "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/OwlHub.lua'))()"
-        },
-        {
             "name": "Dark Hub",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHub.png?raw=true",
             "script": "loadstring(game:HttpGet('https://darkhub.xyz/remote-script.lua'))()"
@@ -34,6 +29,11 @@
             "name": "Coco Hub",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/CocoBlack.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/MarsQQ/CocoHub/raw/master/CocoZHub'))()"
+        },
+        {
+            "name": "CMD-X",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/CMDX.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/CMD-X.lua'))()"
         }
     ]
 }
