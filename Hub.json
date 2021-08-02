@@ -11,7 +11,7 @@
             "script": "loadstring(game:HttpGet('https://darkhub.xyz/remote-script.lua'))()"
         },
         {
-            "name": "Coco Hub",
+            "name": "qvz is a qt",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/CocoHub.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/Eprx/scripts/raw/master/vortexhub'))()"
         }
