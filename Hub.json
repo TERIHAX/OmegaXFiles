@@ -17,7 +17,7 @@
         },
         {
             "name": "Coco Hub",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/Coco.png?raw=true",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/CocoBlack.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/MarsQQ/CocoHub/raw/master/CocoZHub'))()"
         }
     ]
