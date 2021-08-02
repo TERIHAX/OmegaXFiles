@@ -11,11 +11,6 @@
             "script": "loadstring(game:HttpGet('https://darkhub.xyz/remote-script.lua'))()"
         },
         {
-            "name": "Dark Hub V3",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHubV3.png?raw=true",
-            "script": "loadstring(game:HttpGet('https://github.com/RandomAdamYT/DarkHub_V3/raw/main/Init'))()"
-        },
-        {
             "name": "Vortex Hub",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/DarkHubV3.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/Eprx/scripts/raw/master/vortexhub'))()"
