@@ -44,6 +44,11 @@
             "name": "Unnamed ESP",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/UnnamedESPGP.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/UnnamedESP.lua'))()"
+        },
+        {
+            "name": "Reviz Admin v2",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/RevizV2.png?raw=true",
+            "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/Reviz%20Admin%20v2.lua'))()"
         }
     ]
 }
