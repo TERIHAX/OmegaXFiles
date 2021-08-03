@@ -42,7 +42,7 @@
         },
         {
             "name": "Unnamed ESP",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/InfiniteYieldUI.png?raw=true",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/UnnamedESPGP.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/UnnamedESP.lua'))()"
         }
     ]
