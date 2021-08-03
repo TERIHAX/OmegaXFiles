@@ -36,7 +36,7 @@
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/CMD-X.lua'))()"
         },
         {
-            "name": "dwadadada Yield",
+            "name": "Infinite Yield",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/InfiniteYield.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/EdgeIY/infiniteyield/raw/master/source'))()"
         }
