@@ -51,12 +51,7 @@
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/Reviz%20Admin%20v2.lua'))()"
         },
         {
-            "name": "ShatterVast",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/ShatterVast.png?raw=true",
-            "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/ShatterVast.lua'))()"
-        },
-        {
-            "name": "Remote 2 Script",
+            "name": "Remote2Script",
             "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/Remote2Script.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/TERIHAX/Scripts/raw/main/RemoteSpy.lua'))()"
         },
