@@ -37,7 +37,7 @@
         },
         {
             "name": "Infinite Yield",
-            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/InfiniteYield.png?raw=true",
+            "image": "https://github.com/TERIHAX/OmegaXFiles/blob/main/Images/InfiniteYieldBlack.png?raw=true",
             "script": "loadstring(game:HttpGet('https://github.com/EdgeIY/infiniteyield/raw/master/source'))()"
         }
     ]
