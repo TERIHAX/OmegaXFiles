@@ -10,8 +10,6 @@ getgenv
 getrenv
 getsenv
 hookfunction
-switch
-case
 getfenv
 getmetatable
 setmetatable
@@ -19,6 +17,8 @@ ipairs
 loadfile
 loadstring
 newproxy
+gethiddenproperty
+sethiddenproperty
 next
 pairs
 pcall
