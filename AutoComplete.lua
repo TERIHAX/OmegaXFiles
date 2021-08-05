@@ -6,6 +6,12 @@ printidentity
 assert
 collectgarbage
 error
+getgenv
+getrenv
+getsenv
+hookfunction
+switch
+case
 getfenv
 getmetatable
 setmetatable
